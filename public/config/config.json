@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4Bbe9A141FBe7D04fC85ddb5dCb277cc278ce01E",
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "KungFu Geckos",
+  "SYMBOL": "GECKOS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kungfu-geckos",
+  "SHOW_BACKGROUND": true
+}
