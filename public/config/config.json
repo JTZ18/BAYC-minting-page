@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x4Bbe9A141FBe7D04fC85ddb5dCb277cc278ce01E",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x38e02b5f4Bc1339bEffEa91F40384Cb39e022DB6",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x38e02b5f4Bc1339bEffEa91F40384Cb39e022DB6",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Eth",
     "ID": 4
   },
-  "NFT_NAME": "KungFu Geckos",
-  "SYMBOL": "GECKOS",
+  "NFT_NAME": "Not a Bored Ape",
+  "SYMBOL": "APE",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 10000000000000000,
   "DISPLAY_COST": 0.01,
